@@ -1,4 +1,6 @@
 # South Sudan Heatwave Early Warning System
+<img width="356" height="367" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/f2ca13a8-62f2-41f4-bdb4-9fa01881fac6" />
+
 
 ## Overview of Project and Problem
 
